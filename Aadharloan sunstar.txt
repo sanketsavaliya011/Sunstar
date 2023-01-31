@@ -35,8 +35,8 @@
 		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
-	"NativeBanner": true,
-	"AdDialog": true,
+	"NativeBanner": false,
+	"AdDialog": false,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
 	"ExtraScreen": "0",
